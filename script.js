@@ -42,5 +42,14 @@ async function getJoke(){
      and will be updated with each new joke
     Assign the current jokes punchline to the punchline variable.
     */
-   punchline = joke[0].punchline
+   punchline = joke[0].punchline;
+
+   // Clear the punchline div and remove the "bubble" class from the punchline div
+   punchlineDiv.innerHTML = "";
+   punchlineDiv.classList.remove('bubble');
+
+   punchlineBtn.classList.toggle('hidden');
+   newJokeBtn.classList.toggle('hidden');
 }
+
+getJoke();
