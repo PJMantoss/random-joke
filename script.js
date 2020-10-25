@@ -26,8 +26,11 @@ function getPunchline(){
 
 // Setup an async function called getJoke
 async function getJoke(){
-    const url = "";
+    const url = "https://official-joke-api.appspot.com/jokes/programming/random";
 
     // Create a variable called jokePromise that fetches a joke from the API
     const jokePromise = await fetch(url);
+    //create a variable called joke that consumes the json data
+    const joke = await jokePromise.json();
+
 }
