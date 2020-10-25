@@ -23,3 +23,10 @@ function getPunchline(){
     punchlineBtn.classList.toggle('hidden');
     newJokeBtn.classList.toggle('hidden');
 }
+
+// Setup an async function called getJoke
+async function getJoke(){
+    const url = "";
+
+    // Create a variable called jokePromise that fetches a joke from the API
+}
