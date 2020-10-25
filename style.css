@@ -67,8 +67,8 @@ button {
 }
 
 footer {
-    background:#345480;
-    color: rgba(255,255,255, .65);
+    background:transparent;
+    color: black;
     text-align: center;
     padding: 3em 0;
 }
