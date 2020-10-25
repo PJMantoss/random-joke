@@ -65,3 +65,33 @@ button {
     border-radius: 0 0 100%;
     box-shadow: -2px -2px 0 0 #000 inset, -23px 0 0 0 #fff inset, -25px -2px 0 0 #000 inset;
 }
+
+footer {
+    background:#345480;
+    color: rgba(255,255,255, .65);
+    text-align: center;
+    padding: 3em 0;
+}
+
+#love {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+#love a {
+    color: cyan;
+}
+
+#love > span {
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 12px;
+    color: white
+}
+
+#love > img {
+    width: 40px;
+    padding: 8px;
+}
