@@ -1,4 +1,5 @@
 //Variables
+let punchline;
 const setupDiv = document.getElementById("setup");
 const punchlineDiv = document.getElementById("punchline");
 const punchlineBtn = document.getElementById("punchlineBtn");
