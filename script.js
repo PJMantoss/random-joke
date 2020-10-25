@@ -29,4 +29,5 @@ async function getJoke(){
     const url = "";
 
     // Create a variable called jokePromise that fetches a joke from the API
+    const jokePromise = await fetch(url);
 }
