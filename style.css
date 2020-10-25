@@ -4,3 +4,10 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    background: #51bbc9;
+    font-size: 1.5rem;
+    font-family: "Permanent Marker";
+    padding: 10px 100px 10px 10px;
+}
