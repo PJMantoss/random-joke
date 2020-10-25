@@ -16,3 +16,10 @@ punchlineBtn.addEventListener("click", getPunchline);
 
 //Event listener for the new joke button. When clicked it calls the getJoke function
 newJokeBtn.addEventListener("click", getJoke);
+
+function getPunchline(){
+    punchlineDiv.innerHTML = punchline;
+    punchlineDiv.classList.add('bubble');
+    punchlineBtn.classList.toggle('hidden');
+    newJokeBtn.classList.toggle('hidden');
+}
