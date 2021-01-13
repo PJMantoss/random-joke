@@ -12,7 +12,7 @@ I started the project with the structure of the site, creating a main section to
 Finally, I created the getPunchline function with a toggle method inside and set up an async function - getJokes() which pulls in data (jokes & punchlines) from the OfficialJoke API using fetch.
 
 ROADBLOCK ENCOUNTERED:
-I experienced difficulty in styling the jokes and punchline divs to look like a bubble.
+I experienced difficulty in styling the joke and punchline divs to look like a bubble.
 
 SOLUTION:
 To solve this, I used the pseudo element :before to add addtional styling to the divs.
