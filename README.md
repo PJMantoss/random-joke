@@ -9,7 +9,7 @@ TECH OVERVIEW
 
 I started the project by firts building the structure of the site, creating a main section to hold a joke, punchline, getPunchline button and newJoke button, and a Footer section. Then I styled all the elements using CSS.
 
-Finally, I created the getPunchline function with a toggle method inside and set up an async function - getJokes() which pulls in data (jokes & punchlines) from the OfficialJoke API using fetch.
+Finally, I created the getPunchline function with a toggle method inside and set up an async function called getJokes() which pulls in data (jokes & punchlines) from the OfficialJoke API using fetch.
 
 ROADBLOCK ENCOUNTERED:
 I experienced difficulty in styling the joke and punchline divs to look like a bubble.
