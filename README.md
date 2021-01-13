@@ -15,6 +15,6 @@ ROADBLOCK ENCOUNTERED:
 I experienced difficulty in styling the joke and punchline divs to look like a bubble.
 
 SOLUTION:
-To solve this, I used the pseudo element :before to add addtional styling to the divs.
+To solve this, I used the pseudo element ::before to add addtional styling to the divs.
 
 Date: 25-10-2020
