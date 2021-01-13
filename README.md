@@ -7,7 +7,9 @@ TECH OVERVIEW
 - Async/Await
 - OfficialJoke API
 
-I started the project with the structure of the site, creating a main section to hold a joke, punchline, getPunchline button and newJoke button.
+I started the project with the structure of the site, creating a main section to hold a joke, punchline, getPunchline button and newJoke button, and a Footer section. Then I styled all the elements using CSS.
+
+Finally, I created the getPunchline function with a toggle method inside and set up an asyn function getJokes() which pulls in data from the OfficialJoke API using fetch.
 
 ROADBLOCK ENCOUNTERED:
 
