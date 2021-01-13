@@ -7,6 +7,8 @@ TECH OVERVIEW
 - Async/Await
 - OfficialJoke API
 
+I started the project with the structure of the site, creating a main section to hold a joke, punchline, newJoke & getPunchline buttons,
+
 ROADBLOCK ENCOUNTERED:
 
 SOLUTION:
