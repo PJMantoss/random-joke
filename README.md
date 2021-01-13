@@ -1,4 +1,4 @@
-A programming Joke Generator with punchlines HTML/CSS,  and OfficialJoke API
+A programming Joke Generator with punchlines
 
 TECH OVERVIEW
 - HTML/CSS
