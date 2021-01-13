@@ -1,6 +1,6 @@
 A programming Joke Generator with punchlines
 
-This is one of the challenge projects in the Frontend Developer Career Path program at Scrimba. The objective is to demonstrate how to use of Fetch API in an Async/Await function.
+This is one of the challenge projects in the Frontend Developer Career Path program at Scrimba. The objective is to demonstrate how to use the Fetch API in an Async/Await function.
 
 TECH OVERVIEW
 - HTML/CSS
